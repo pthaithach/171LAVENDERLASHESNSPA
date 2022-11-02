@@ -1,0 +1,36 @@
+{
+    "data": {
+        "store"     : "LAVENDER LASHES N SPA",
+        "slug"      : "lavender-lashes-n-spa",
+        "phone"     : "432 232-0970",
+        "email"     : "alextthb9446@gmail.com",
+        "address"   : "2127 E 42nd St #A, Odessa, Texas 79762",
+        "time_1"    : "Mon : 09:30 AM - 07:00 PM",
+        "time_2"    : "Tue: Closed",
+        "time_3"    : "Web - Sat: 09:30 AM - 07:00 PM",
+        "time_4"    : "Sun: 12:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/lavenderlashesandspa/",
+        "instagram" :   "https://www.instagram.com/lavender_lashes_n_spa/",
+        "google"    :   "https://goo.gl/maps/SnP69J6Fc2Azhitz5", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDcwNTl8bGF2ZW5kZXI0MzJ8VFhfMDc5NDR8MDk4NzM1NTFlMDdkMzBmNDEwY2MwMDZjY2ViNTFhZDA=",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13550.415119191346!2d-102.3545411!3d31.8901887!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf61a53ac87b4d490!2sLavender%20Lashes%20N%20Spa!5e0!3m2!1svi!2s!4v1667367208593!5m2!1svi!2s"
+    },
+    "color": {
+        "primary"               :   "#6E14A8",
+        "primary_light"         :   "#d18eff",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#FEBC24",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "assets/images",
+    "domain":       "http://127.0.0.1:5500/"
+}
